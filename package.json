@@ -1,5 +1,5 @@
 {
-  "name": "@atom/teletype-client",
+  "name": "@dfhq/teletype-client",
   "version": "0.38.4",
   "description": "",
   "main": "index.js",
@@ -14,11 +14,12 @@
     "event-kit": "^2.3.0",
     "google-protobuf": "^3.5.0",
     "pusher-js": "^4.2.2",
+    "socket.io-client": "^4.7.4",
     "uuid": "^3.2.1",
     "webrtc-adapter": "~6.1"
   },
   "devDependencies": {
-    "@atom/teletype-server": "^0.18.1",
+    "@dfhq/teletype-server": "file:../teletype-server",
     "deep-equal": "^1.0.1",
     "dotenv": "^4.0.0",
     "electron": "2.0.0",
