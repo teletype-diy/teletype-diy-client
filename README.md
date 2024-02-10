@@ -1,7 +1,6 @@
-##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
- # teletype-client
+ # teletype-diy-client
 
-The editor-agnostic library managing the interaction with other clients to support peer-to-peer collaborative editing in [Teletype for Atom](https://github.com/atom/teletype).
+The editor-agnostic library managing the interaction with other clients to support peer-to-peer collaborative editing in [Teletype for Pulsar](https://github.com/schadomi7/teletype-diy).
 
 ## Hacking
 
@@ -17,7 +16,7 @@ To run teletype-client tests locally, you'll first need to have:
 1. Clone and bootstrap
 
     ```
-    git clone https://github.com/atom/teletype-client.git
+    git clone https://github.com/schadomi7/teletype-diy-client.git
     cd teletype-client
     cp .env.example .env
     createdb teletype-server-test
