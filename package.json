@@ -1,5 +1,5 @@
 {
-  "name": "@dfhq/teletype-client",
+  "name": "teletype-diy/teletype-diy-client",
   "version": "0.38.4",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "webrtc-adapter": "~6.1"
   },
   "devDependencies": {
-    "@dfhq/teletype-server": "file:../teletype-server",
+    "@teletype-diy/teletype-diy-server": "teletype-diy/teletype-diy-server",
     "deep-equal": "^1.0.1",
     "dotenv": "^4.0.0",
     "electron": "2.0.0",
