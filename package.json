@@ -1,5 +1,5 @@
 {
-  "name": "teletype-diy/teletype-diy-client",
+  "name": "@teletype-diy/teletype-diy-client",
   "version": "0.39.0",
   "description": "",
   "main": "index.js",
